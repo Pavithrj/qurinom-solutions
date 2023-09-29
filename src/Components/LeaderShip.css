@@ -1,0 +1,20 @@
+.leaderShip {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.leaderShip-container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.leaderShip-subtitle {
+    font-size: 17px;
+    color: #d83030;
+}
+
+.leaderShip-content {
+    width: 570px;
+}

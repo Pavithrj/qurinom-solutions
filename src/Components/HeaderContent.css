@@ -1,0 +1,35 @@
+.headerContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cyan;
+}
+
+.headerContent-company-title {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.headerContent-company-details {
+    font-size: 20px;
+}
+
+.headerContent-btn-slider {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.slider-image-two {
+    height: 672px;
+    width: 507px;
+}
+
+.headerContent-btn {
+    color: #ffffff;
+    font-size: 16px;
+    height: 55px;
+    width: 152px;
+    background-color: #252628;
+    cursor: pointer;
+}

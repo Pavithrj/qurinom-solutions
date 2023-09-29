@@ -1,0 +1,30 @@
+.headerContainer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100px;
+}
+
+.headerContainer-pages {
+    display: flex;
+    justify-content: space-evenly;
+    width: 500px;
+}
+
+.company-logo {
+    height: 50px;
+    width: 300px;
+}
+
+.headerContainer-page-link {
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.headerContainer-page-links:hover {
+    color: red;
+    text-decoration: underline;
+    transform: scale(1.1);
+}

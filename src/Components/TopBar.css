@@ -1,0 +1,30 @@
+.topbar {
+    display: flex;
+}
+
+.topbar-left {
+    background-color: rgb(216, 48, 48);
+    height: 45px;
+    width: 450px;
+}
+
+.topbar-social-links {
+    text-decoration: none;
+    transition: all .3s ease-out;
+    max-width: 100%;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 4px;
+}
+
+.topbar-links {
+    background-color: black;
+    width: 100%;
+}
+
+.topbar-links-right {
+    position: relative;
+    text-align: end;
+    right: 350px;
+    margin-top: 10px;
+}

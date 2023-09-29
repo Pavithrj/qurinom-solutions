@@ -1,0 +1,47 @@
+.footer {
+    background-color: #252628;
+    color: #bbbbbb;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 50px;
+}
+
+.footer-about-company {
+    display: flex;
+}
+
+.company-links {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.services {
+    font-size: 14px;
+    row-gap: 10px;
+    display: grid;
+    margin-top: 15px;
+}
+
+.links {
+    font-size: 14px;
+    row-gap: 10px;
+    display: grid;
+    margin-top: 15px;
+}
+
+.company-services {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.company-logo {
+    height: 50px;
+    width: 300px;
+    background-color: white;
+}
+
+.company-desc {
+    width: 610px;
+    margin-top: 10px;
+}
